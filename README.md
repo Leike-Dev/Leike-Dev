@@ -15,13 +15,6 @@ Just a tech student working on personal projects, learning new languages and stu
 
 ###
 
-<h3 align="left">Currently working on 🪤</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leike-Dev&repo=Obsidian-Typify&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/Leike-Dev/Obsidian-Typify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leike-Dev&repo=Obsidian-Running-Head&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/Leike-Dev/Obsidian-Running-Head)
-
-###
-
 <h3 align="left">Tools, languages and frameworks 🧰</h3>
 
 <p align="left">
